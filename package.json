@@ -1,0 +1,10 @@
+{
+  "name": "recast-sandbox-repo",
+  "version": "0.1.0",
+  "description": "Disposable sandbox for recast-contributor live validation. Not a real project.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
